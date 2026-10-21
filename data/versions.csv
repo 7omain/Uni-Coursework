@@ -1,1 +1,5 @@
-
+,0
+python,3.13.16
+pandas,2.2.3
+yfinance,0.2.66
+retrieval_date,2026-10-21
