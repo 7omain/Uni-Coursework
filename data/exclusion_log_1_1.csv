@@ -1,0 +1,17 @@
+Ticker,first_date,last_date,n_days,expected_days,exclusion_reason,Security,GICS Sector,Date added
+EXE,2021-02-10,2024-12-31,979,1005,listed later (2021-02-10),Expand Energy,Energy,2025-03-24
+COIN,2021-04-14,2024-12-31,936,1005,listed later (2021-04-14),Coinbase,Financials,2025-05-19
+APP,2021-04-15,2024-12-31,935,1005,listed later (2021-04-15),AppLovin,Communication Services,2025-09-22
+HOOD,2021-07-29,2024-12-31,862,1005,listed later (2021-07-29),Robinhood Markets,Financials,2025-09-22
+CEG,2022-01-19,2024-12-31,742,1005,listed later (2022-01-19),Constellation Energy,Utilities,2022-02-02
+GEHC,2022-12-15,2024-12-31,513,1005,listed later (2022-12-15),GE HealthCare,Health Care,2023-01-04
+KVUE,2023-05-04,2024-12-31,418,1005,listed later (2023-05-04),Kenvue,Consumer Staples,2023-08-25
+VLTO,2023-10-04,2024-12-31,313,1005,listed later (2023-10-04),Veralto,Industrials,2023-10-02
+RDDT,2024-03-21,2024-12-31,197,1005,listed later (2024-03-21),Reddit,Communication Services,2026-08-18
+SOLV,2024-03-26,2024-12-31,194,1005,listed later (2024-03-26),Solventum,Health Care,2024-04-01
+GEV,2024-03-27,2024-12-31,193,1005,listed later (2024-03-27),GE Vernova,Industrials,2024-04-02
+FDXF,,,0,1005,no data returned,FedEx Freight,Industrials,2026-06-01
+HONA,,,0,1005,no data returned,Honeywell Aerospace,Industrials,2026-06-29
+Q,,,0,1005,no data returned,Qnity Electronics,Information Technology,2025-11-03
+SNDK,,,0,1005,no data returned,Sandisk,Information Technology,2025-11-28
+VYLR,,,0,1005,no data returned,Vylor,Consumer Staples,2026-10-01
