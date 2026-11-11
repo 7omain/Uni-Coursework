@@ -1,0 +1,12 @@
+,result
+"Baseline vs manual, 300 random share-days (max abs difference)",0.0
+Baseline would change if the tested day were included (share of samples),1.0
+Sessions available before the 60-session window (need ≥ 20),945
+Window length (need 60),60
+Every window day has a valid 20-session threshold,True
+"Shares with no event (R missing, not zero)",0
+Shares with R = 0,0
+Shares with an event on the observation date,0
+F within 0–60,True
+M positive for every share,True
+Same shares in risk-return and RFM tables,True

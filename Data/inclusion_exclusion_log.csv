@@ -1,0 +1,7 @@
+step,removed,remaining
+"S&P 500 constituents retrieved (Wikipedia, 21 Oct 2026)",,503
+No price data returned by Yahoo,6,497
+Listed after study start (incomplete history),10,487
+Other history gaps,0,487
+Zero-volume placeholder data (1.2.3),2,485
+No high-volume event – R missing (1.4.1),0,485
