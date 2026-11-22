@@ -19,4 +19,4 @@ so results are reproducible without re-downloading from Yahoo Finance.
 Study period 1 Jan 2021 – 31 Dec 2024; benchmark ^GSPC; observation date 31 Dec 2024;
 485 shares retained; random seed 42.
 
-`figures/` contains all charts used in the report.
+`Figure/` contains all charts used in the report.
